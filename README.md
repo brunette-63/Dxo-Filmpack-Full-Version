@@ -240,4 +240,4 @@ This repository serves as the official landing page for DxO FilmPack. The softwa
 **Get the most recent version of DxO FilmPack today!**
 
 ---
-**Last updated:** 2026-09-26 19:44:00 UTC
+**Last updated:** 2026-09-26 22:34:53 UTC
